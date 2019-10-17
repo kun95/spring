@@ -1,6 +1,6 @@
-# JAVA 
+# Spring
 
-> 总结java的各种知识点：基础语法、反射、IO、多线程、泛型等
+> 总结Spring的知识点，包括基本的使用及核心源码
 
 [GitHub](https://github.com/kun95/java)
 [Get Started](README.md)
